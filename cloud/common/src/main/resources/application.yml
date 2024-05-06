@@ -1,0 +1,30 @@
+#打印的日志级别
+logging:
+  level:
+    com.cloud.study.feign: DEBUG
+
+
+
+  ##开启压缩
+#  compression:
+#    request:
+#      enabled: true
+#      min-request-size: 4096
+#      mime-types: ["application/xml", "application/json"]
+#
+#    response:
+#      enabled: true
+
+##若是要开启okHttp,则先引入依赖
+#<dependency>
+#     <groupId>io.github.openfeign</groupId>
+#     <artifactId>feign-okhttp</artifactId>
+# </dependency>
+# feign:
+#   httpclient:
+#      enabled: false
+#   okhttp:
+#      enabled: true
+
+
+## GZIP 压缩配置，开启压缩可以有效节约网络资源，提升接口性能

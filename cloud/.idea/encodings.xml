@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ActivitiBasicDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feign-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbon-comsumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbon-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata_feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata_multipart_source" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-jwt-restful-login" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-oauth-01" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivitiBasicDemo/ActivitiBasicDemo.iml" filepath="$PROJECT_DIR$/ActivitiBasicDemo/ActivitiBasicDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-dubbo/common-dubbo.iml" filepath="$PROJECT_DIR$/common-dubbo/common-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-consumer/feign-consumer.iml" filepath="$PROJECT_DIR$/feign-consumer/feign-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-provider/feign-provider.iml" filepath="$PROJECT_DIR$/feign-provider/feign-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos/nacos.iml" filepath="$PROJECT_DIR$/nacos/nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbon-comsumer/rabbon-comsumer.iml" filepath="$PROJECT_DIR$/rabbon-comsumer/rabbon-comsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbon-provider/rabbon-provider.iml" filepath="$PROJECT_DIR$/rabbon-provider/rabbon-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata_feign/seata_feign.iml" filepath="$PROJECT_DIR$/seata_feign/seata_feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata_multipart_source/seata_multipart_source.iml" filepath="$PROJECT_DIR$/seata_multipart_source/seata_multipart_source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-tk-mybatis/spring-boot-tk-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-tk-mybatis/spring-boot-tk-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-oauth2/spring-cloud-oauth2.iml" filepath="$PROJECT_DIR$/spring-cloud-oauth2/spring-cloud-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security/spring-security.iml" filepath="$PROJECT_DIR$/spring-security/spring-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-jwt-restful-login/spring-security-jwt-restful-login.iml" filepath="$PROJECT_DIR$/spring-security-jwt-restful-login/spring-security-jwt-restful-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-oauth-01/spring-security-oauth-01.iml" filepath="$PROJECT_DIR$/spring-security-oauth-01/spring-security-oauth-01.iml" />
+    </modules>
+  </component>
+</project>

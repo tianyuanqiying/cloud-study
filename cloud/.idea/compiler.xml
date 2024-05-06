@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ActivitiBasicDemo" />
+        <module name="common" />
+        <module name="comsumer" />
+        <module name="dubbo-consumer" />
+        <module name="dubbo-provider" />
+        <module name="feign-account" />
+        <module name="feign-consumer" />
+        <module name="feign-provider" />
+        <module name="gateway" />
+        <module name="mysql_common" />
+        <module name="nacos" />
+        <module name="provider" />
+        <module name="rabbon-comsumer" />
+        <module name="rabbon-provider" />
+        <module name="seata_multipart_source" />
+        <module name="spring-boot-mybatis" />
+        <module name="spring-boot-tk-mybatis" />
+        <module name="spring-cloud-oauth2" />
+        <module name="spring-security" />
+        <module name="spring-security-jwt-restful-login" />
+        <module name="spring-security-oauth-01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ActivitiBasicDemo" target="1.8" />
+      <module name="cloud" target="1.8" />
+      <module name="common" target="8" />
+      <module name="common-dubbo" target="8" />
+      <module name="comsumer" target="8" />
+      <module name="demo" target="1.5" />
+      <module name="dubbo-consumer" target="8" />
+      <module name="dubbo-provider" target="8" />
+      <module name="feign-account" target="1.5" />
+      <module name="feign-consumer" target="8" />
+      <module name="feign-provider" target="8" />
+      <module name="gateway" target="8" />
+      <module name="mall-consumer" target="1.5" />
+      <module name="mysql_common" target="1.8" />
+      <module name="nacos" target="8" />
+      <module name="provider" target="8" />
+      <module name="rabbon-comsumer" target="8" />
+      <module name="rabbon-provider" target="8" />
+      <module name="seata-feign" target="1.8" />
+      <module name="seata_account" target="1.8" />
+      <module name="seata_feign" target="1.8" />
+      <module name="seata_multipart_source" target="1.8" />
+      <module name="seatafeign" target="1.8" />
+      <module name="spring-boot-mybatis" target="1.7" />
+      <module name="spring-boot-tk-mybatis" target="1.8" />
+      <module name="spring-cloud-oauth2" target="8" />
+      <module name="spring-security" target="8" />
+      <module name="spring-security-jwt-restful-login" target="8" />
+      <module name="spring-security-oauth-01" target="8" />
+      <module name="springcloudoauth2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

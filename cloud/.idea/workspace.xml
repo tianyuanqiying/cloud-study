@@ -1,0 +1,2343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30264154-7e32-40cd-b1bc-cb45df0a3bb4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/mall-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/comsumer/target/" />
+    <ignored path="$PROJECT_DIR$/provider/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/rabbon-comsumer/target/" />
+    <ignored path="$PROJECT_DIR$/rabbon-provider/target/" />
+    <ignored path="$PROJECT_DIR$/feign-provider/target/" />
+    <ignored path="$PROJECT_DIR$/feign-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-provider/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/common-dubbo/target/" />
+    <ignored path="$PROJECT_DIR$/nacos/target/" />
+    <ignored path="$PROJECT_DIR$/seata_multipart_source/target/" />
+    <ignored path="$PROJECT_DIR$/seatafeign/target/" />
+    <ignored path="$PROJECT_DIR$/seata_feign/target/" />
+    <ignored path="$PROJECT_DIR$/gateway/target/" />
+    <ignored path="$PROJECT_DIR$/spring-security-oauth-01/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-oauth2/target/" />
+    <ignored path="$PROJECT_DIR$/springcloudoauth2/target/" />
+    <ignored path="$PROJECT_DIR$/spring-security/target/" />
+    <ignored path="$PROJECT_DIR$/spring-security-jwt-restful-login/target/" />
+    <ignored path="$PROJECT_DIR$/ActivitiBasicDemo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-tk-mybatis/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/cloud$FeignConsumerApplication.coverage" NAME="FeignConsumerApplication Coverage Results" MODIFIED="1702866207758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sendRedirect</find>
+      <find>methodSecurityMetadataSource</find>
+      <find>Advice</find>
+      <find>methodSecurityInterceptor</find>
+      <find>ExpressionBasedPreInvocationAdvice</find>
+      <find>authentication</find>
+      <find>permitAll</find>
+      <find>WEB</find>
+      <find>MVC</find>
+      <find>onstartup</find>
+      <find>initializers</find>
+      <find>addFilter</find>
+      <find>update</find>
+      <find>任务</find>
+      <find>delete</find>
+      <find>状态</find>
+      <find>ACT_</find>
+      <find>ACT_RE</find>
+      <find>ACT_RU_VARIABLE</find>
+      <find>insert</find>
+      <find>add</find>
+      <find>addMappedStatement</find>
+      <find>Dr</find>
+      <find>Druid</find>
+      <find>sqlinj</find>
+      <find>LogicDele</find>
+      <find>execute</find>
+      <find>se</find>
+      <find>selectByPrimaryKey</find>
+      <find>selectByExample</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\Java_springcloud\project\cloud\spring-boot-mybatis\src\main\java\com\cloud\study</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/MybatisConfig.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/cloud/study/mybatis/mapper/AllMapper.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/cloud/study/mybatis/service/CommonSelectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/cloud/study/mybatis/SqlInjector.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/cloud/study/mybatis/MybatisConfig.java" />
+        <option value="$PROJECT_DIR$/common/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/config/MybatisConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/entity/Account.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/test/java/com/cloud/study/springbootmybatis/SpringBootMybatisApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/BaseCommonMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/CommonConfig.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/cloud/study/mybatis/service/BaseCommonSelectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/SelectByBizId.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/CommonMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/mapper/AccountMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/BaseCommonService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/SqlInjector.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/controller/AccountAPI.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/SelectByBizIdAndUniqueId.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/CommonService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/temp/CommonService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/mapper/BaseCommonMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/BaseCommonSelectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/mapper/CommonMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/CommonMapperAdapter.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/mapper/AccountMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/config/TkConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/mapper/AccountMapper2.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/entity/Account.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonSelectMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonSelectProvider.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonUpdateProvider.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonUpdateMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/service/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonInsertMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonInsertProvider.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/controller/AccountController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonDeleteMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonDeleteProvider.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/service/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/mapper/AccountBaseMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/service/AccountEntityService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/service/AccountEntityServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ActivitiBasicDemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-6" />
+    <option name="y" value="1" />
+    <option name="width" value="1940" />
+    <option name="height" value="1058" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ActivitiBasicDemo/src/main/resources/bpmn" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3614089" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="SearchEverywhereHistoryKey" value="Callable&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;Runnable&#9;PSI&#9;JAVA://java.lang.Runnable&#10;SelectById&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/com/baomidou/mybatis-plus-core/3.4.0/mybatis-plus-core-3.4.0-sources.jar!/com/baomidou/mybatisplus/core/injector/methods/SelectById.java&#10;ProviderSqlSource&#9;PSI&#9;JAVA://org.apache.ibatis.builder.annotation.ProviderSqlSource&#10;SpringServletContainerInitializer&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-web/5.1.14.RELEASE/spring-web-5.1.14.RELEASE.jar!/org/springframework/web/SpringServletContainerInitializer.class&#10;SpringContainer&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-web/5.1.14.RELEASE/spring-web-5.1.14.RELEASE.jar!/org/springframework/web/SpringServletContainerInitializer.class&#10;FilterDef&#9;PSI&#9;JAVA://org.apache.tomcat.util.descriptor.web.FilterDef&#10;StandardWrapper&#9;PSI&#9;JAVA://org.apache.catalina.core.StandardWrapper&#10;ConfigurationClassPost&#9;PSI&#9;JAVA://org.springframework.context.annotation.ConfigurationClassPostProcessor&#10;MvcPro&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.13.RELEASE/spring-boot-autoconfigure-2.1.13.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcProperties.java&#10;DispatcherServletBean&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.web.servlet.DispatcherServletRegistrationBean&#10;ExtClassLoader&#9;PSI&#9;JAVA://sun.misc.Launcher.ExtClassLoader&#10;Classloader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;Exception&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/access/ExceptionTranslationFilter.java&#10;AccessDecis&#9;PSI&#9;JAVA://org.springframework.security.access.AccessDecisionManager&#10;PrePostAnnotationSecurityMetadataSource&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE-sources.jar!/org/springframework/security/access/prepost/PrePostAnnotationSecurityMetadataSource.java&#10;SecurityContextPersistenceFilter&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/context/SecurityContextPersistenceFilter.java&#10;SecurityContextF&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/context/SecurityContextPersistenceFilter.java&#10;HeaderWriter&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/header/HeaderWriterFilter.java&#10;HttpWriterFilter&#9;PSI&#9;JAVA://org.springframework.security.web.server.header.HttpHeaderWriterWebFilter&#10;UserN&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java&#10;UserNa&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE-sources.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.java&#10;Dao&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java&#10;SecurityContextHolder&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE-sources.jar!/org/springframework/security/core/context/SecurityContextHolder.java&#10;SessionMana&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/session/SessionManagementFilter.java&#10;LogoutSuccessE&#9;PSI&#9;JAVA://org.springframework.security.web.authentication.logout.LogoutSuccessEventPublishingLogoutHandler&#10;LogoutSucc&#9;PSI&#9;JAVA://com.cloud.study.springsecurity.handler.UserLogoutSuccessHandler&#10;LogoutFilter&#9;PSI&#9;JAVA://org.springframework.security.web.authentication.logout.LogoutFilter&#10;DaoAUth&#9;PSI&#9;JAVA://org.springframework.security.authentication.dao.DaoAuthenticationProvider&#10;DaoAU&#9;PSI&#9;JAVA://org.springframework.security.config.annotation.authentication.configurers.userdetails.DaoAuthenticationConfigurer&#10;AnonymousA&#9;PSI&#9;JAVA://org.springframework.security.authentication.AnonymousAuthenticationProvider&#10;FilterSecu&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/access/intercept/FilterSecurityInterceptor.java&#10;LoginUrl&#9;PSI&#9;JAVA://org.springframework.security.web.authentication.LoginUrlAuthenticationEntryPoint&#10;UserNam&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java&#10;FilterSEcur&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/access/intercept/FilterSecurityInterceptor.java&#10;Username&#9;PSI&#9;JAVA://org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter&#10;WebSecurityConfiguration&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.java&#10;AbstractConfiguredSecurityBuilder&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/AbstractConfiguredSecurityBuilder.java&#10;WebSecurity&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java&#10;EnableGlobalMethodSecurity&#9;PSI&#9;JAVA://org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity&#10;EnableGlobalAuthentication&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/authentication/configuration/EnableGlobalAuthentication.java&#10;WebMvcSecurityConfiguration&#9;PSI&#9;JAVA://org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration&#10;MethodSecurityIn&#9;PSI&#9;JAVA://org.springframework.security.access.intercept.aopalliance.MethodSecurityInterceptor&#10;RolesAllowed&#9;PSI&#9;JAVA://javax.annotation.security.RolesAllowed&#10;UsernamePass&#9;PSI&#9;JAVA://org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter&#10;DefaultLoginPageGeneratingFilter&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/authentication/ui/DefaultLoginPageGeneratingFilter.java&#10;CsrfFilter&#9;PSI&#9;JAVA://org.springframework.security.web.csrf.CsrfFilter&#10;Authentication&#9;FILE&#9;jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE-sources.jar!/org/springframework/security/core/Authentication.java&#10;FilterSecurity&#9;PSI&#9;JAVA://org.springframework.security.web.access.intercept.FilterSecurityInterceptor&#10;LoadBalancerInterceptor&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalancerInterceptor" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (1)" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java_springcloud\project\cloud\spring-security\src\main\resources\template" />
+      <recent name="E:\Java_springcloud\project\cloud\spring-security\src\main\resources\static" />
+      <recent name="E:\Java_springcloud\project\cloud\common-dubbo\src\main\java\com.cloud.study.dubbo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cloud.study.springboottkmybatis.mapper" />
+      <recent name="com.cloud.study.springboottkmybatis.entity" />
+      <recent name="com.cloud.study.springbootmybatis.common" />
+      <recent name="com.cloud.study.springbootmybatis.common.mapper" />
+      <recent name="com.cloud.study.seata_multipart_source.common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java_springcloud\project\cloud\spring-boot-tk-mybatis\src\main\resources" />
+      <recent name="E:\Java_springcloud\project\cloud\common\src\main\java\com\cloud\study\mybatis\all" />
+      <recent name="E:\Java_springcloud\project\cloud\spring-boot-mybatis\src\main\java\com\cloud\study\springbootmybatis\entity" />
+      <recent name="E:\Java_springcloud\project\cloud\spring-boot-mybatis\src\main\java\com\cloud\study\springbootmybatis" />
+      <recent name="E:\Java_springcloud\project\cloud\ActivitiBasicDemo\src\main\resources\bpmn" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootTkMybatisApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="ActivitiParallelGatewayDemo.doFinanceTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ActivitiBasicDemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="gateway" />
+      <option name="MAIN_CLASS_NAME" value="gateway.ActivitiParallelGatewayDemo" />
+      <option name="METHOD_NAME" value="doFinanceTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ActivitiParallelGatewayDemo.handleWorker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ActivitiBasicDemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="gateway" />
+      <option name="MAIN_CLASS_NAME" value="gateway.ActivitiParallelGatewayDemo" />
+      <option name="METHOD_NAME" value="handleWorker" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ActivitiParallelGatewayDemo.queryFinanceTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ActivitiBasicDemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="gateway" />
+      <option name="MAIN_CLASS_NAME" value="gateway.ActivitiParallelGatewayDemo" />
+      <option name="METHOD_NAME" value="queryFinanceTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ActivitiParallelGatewayDemo.queryParallelTasks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ActivitiBasicDemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="gateway" />
+      <option name="MAIN_CLASS_NAME" value="gateway.ActivitiParallelGatewayDemo" />
+      <option name="METHOD_NAME" value="queryParallelTasks" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ActivitiParallelGatewayDemo.setVariablesForStartProcess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ActivitiBasicDemo" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="gateway" />
+      <option name="MAIN_CLASS_NAME" value="gateway.ActivitiParallelGatewayDemo" />
+      <option name="METHOD_NAME" value="setVariablesForStartProcess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="ComsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.comsumer.ComsumerApplication" />
+      <module name="rabbon-comsumer" />
+      <envs />
+    </configuration>
+    <configuration name="DubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.dubboconsumer.DubboConsumerApplication" />
+      <module name="dubbo-consumer" />
+      <envs />
+    </configuration>
+    <configuration name="DubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.dubboprovider.DubboProviderApplication" />
+      <module name="dubbo-provider" />
+      <envs />
+    </configuration>
+    <configuration name="FeignConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.feignconsumer.FeignConsumerApplication" />
+      <module name="feign-consumer" />
+      <envs />
+    </configuration>
+    <configuration name="FeignProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.feignprovider.FeignProviderApplication" />
+      <module name="feign-provider" />
+      <envs />
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.gateway.GatewayApplication" />
+      <module name="gateway" />
+      <envs />
+    </configuration>
+    <configuration name="NacosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.nacos.NacosApplication" />
+      <module name="nacos" />
+      <envs />
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.provider.ProviderApplication" />
+      <module name="rabbon-provider" />
+      <envs />
+    </configuration>
+    <configuration name="SeataMultipartSourceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.seata_multipart_source.SeataMultipartSourceApplication" />
+      <module name="seata_multipart_source" />
+      <envs />
+    </configuration>
+    <configuration name="SpringBootMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.springbootmybatis.SpringBootMybatisApplication" />
+      <module name="spring-boot-mybatis" />
+      <envs />
+    </configuration>
+    <configuration name="SpringBootTkMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.springboottkmybatis.SpringBootTkMybatisApplication" />
+      <module name="spring-boot-tk-mybatis" />
+      <envs />
+    </configuration>
+    <configuration name="SpringSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.springsecurity.SpringSecurityApplication" />
+      <module name="spring-security" />
+      <envs />
+    </configuration>
+    <configuration name="SpringSecurityJwtRestfulLoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.springsecurityjwtrestfullogin.SpringSecurityJwtRestfulLoginApplication" />
+      <module name="spring-security-jwt-restful-login" />
+      <envs />
+    </configuration>
+    <configuration name="SpringSecurityOauth01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cloud.study.springsecurityoauth01.SpringSecurityOauth01Application" />
+      <module name="spring-security-oauth-01" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="19">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.FeignProviderApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.FeignConsumerApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ProviderApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ComsumerApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.DubboProviderApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.DubboConsumerApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.NacosApplication" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.SeataMultipartSourceApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.GatewayApplication" />
+      <item index="9" class="java.lang.String" itemvalue="Spring Boot.SpringSecurityOauth01Application" />
+      <item index="10" class="java.lang.String" itemvalue="Spring Boot.SpringSecurityApplication" />
+      <item index="11" class="java.lang.String" itemvalue="Spring Boot.SpringSecurityJwtRestfulLoginApplication" />
+      <item index="12" class="java.lang.String" itemvalue="Spring Boot.SpringBootMybatisApplication" />
+      <item index="13" class="java.lang.String" itemvalue="Spring Boot.SpringBootTkMybatisApplication" />
+      <item index="14" class="java.lang.String" itemvalue="JUnit.ActivitiParallelGatewayDemo.setVariablesForStartProcess" />
+      <item index="15" class="java.lang.String" itemvalue="JUnit.ActivitiParallelGatewayDemo.handleWorker" />
+      <item index="16" class="java.lang.String" itemvalue="JUnit.ActivitiParallelGatewayDemo.queryParallelTasks" />
+      <item index="17" class="java.lang.String" itemvalue="JUnit.ActivitiParallelGatewayDemo.queryFinanceTask" />
+      <item index="18" class="java.lang.String" itemvalue="JUnit.ActivitiParallelGatewayDemo.doFinanceTask" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ActivitiParallelGatewayDemo.doFinanceTask" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ActivitiParallelGatewayDemo.queryFinanceTask" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ActivitiParallelGatewayDemo.queryParallelTasks" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ActivitiParallelGatewayDemo.handleWorker" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.ActivitiParallelGatewayDemo.setVariablesForStartProcess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30264154-7e32-40cd-b1bc-cb45df0a3bb4" name="Default" comment="" />
+      <created>1694936653250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694936653250</updated>
+      <workItem from="1694936655860" duration="12569000" />
+      <workItem from="1695348378784" duration="3427000" />
+      <workItem from="1695379213977" duration="29395000" />
+      <workItem from="1695539773419" duration="11620000" />
+      <workItem from="1697204463375" duration="16257000" />
+      <workItem from="1697447724407" duration="6042000" />
+      <workItem from="1697478761431" duration="17332000" />
+      <workItem from="1699074143141" duration="746000" />
+      <workItem from="1699202043230" duration="714000" />
+      <workItem from="1699225382489" duration="8942000" />
+      <workItem from="1699691926871" duration="19043000" />
+      <workItem from="1700290890159" duration="6546000" />
+      <workItem from="1700434976623" duration="1301000" />
+      <workItem from="1700470416294" duration="668000" />
+      <workItem from="1700803570171" duration="1325000" />
+      <workItem from="1700888867229" duration="8761000" />
+      <workItem from="1700928192913" duration="3985000" />
+      <workItem from="1701650368764" duration="26629000" />
+      <workItem from="1701898444531" duration="2531000" />
+      <workItem from="1702105706466" duration="13399000" />
+      <workItem from="1702291464206" duration="19666000" />
+      <workItem from="1702495856796" duration="6945000" />
+      <workItem from="1702779534947" duration="4010000" />
+      <workItem from="1702844398826" duration="9448000" />
+      <workItem from="1702913678552" duration="26657000" />
+      <workItem from="1702991127101" duration="18570000" />
+      <workItem from="1703017830332" duration="16823000" />
+      <workItem from="1703728798084" duration="12119000" />
+      <workItem from="1703864728061" duration="43967000" />
+      <workItem from="1704121420316" duration="9144000" />
+      <workItem from="1704153258065" duration="34637000" />
+      <workItem from="1704217941131" duration="11298000" />
+      <workItem from="1704523381207" duration="10814000" />
+      <workItem from="1704559816119" duration="6035000" />
+      <workItem from="1705630279841" duration="736000" />
+      <workItem from="1705644418981" duration="2154000" />
+      <workItem from="1705893296962" duration="1791000" />
+      <workItem from="1706235479961" duration="171000" />
+      <workItem from="1706284448232" duration="2654000" />
+      <workItem from="1706578795968" duration="2902000" />
+      <workItem from="1706670609918" duration="13994000" />
+      <workItem from="1707098430052" duration="1373000" />
+      <workItem from="1713323734484" duration="5206000" />
+      <workItem from="1713341012030" duration="1183000" />
+      <workItem from="1713352052925" duration="6703000" />
+      <workItem from="1713360166803" duration="10895000" />
+      <workItem from="1713489091404" duration="4219000" />
+      <workItem from="1713495093536" duration="3061000" />
+      <workItem from="1713507724980" duration="9329000" />
+      <workItem from="1714026890199" duration="11330000" />
+      <workItem from="1714039550572" duration="20742000" />
+      <workItem from="1714122149476" duration="4769000" />
+      <workItem from="1714356903632" duration="19050000" />
+      <workItem from="1714955967022" duration="1049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ActivitiParallelGatewayDemo_doDeploymentVariables - 2024.04.19 at 17h 33m 36s.xml">
+      <configuration name="ActivitiParallelGatewayDemo.doDeploymentVariables" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivitiParallelGatewayDemo_doDeploymentVariables - 2024.04.19 at 17h 43m 23s.xml">
+      <configuration name="ActivitiParallelGatewayDemo.doDeploymentVariables" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivitiParallelGatewayDemo_doFinanceTask - 2024.04.19 at 17h 54m 57s.xml">
+      <configuration name="ActivitiParallelGatewayDemo.doFinanceTask" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivitiParallelGatewayDemo_handleWorker - 2024.04.19 at 17h 41m 53s.xml">
+      <configuration name="ActivitiParallelGatewayDemo.handleWorker" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivitiParallelGatewayDemo_handleWorker - 2024.04.19 at 17h 44m 15s.xml">
+      <configuration name="ActivitiParallelGatewayDemo.handleWorker" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivitiParallelGatewayDemo_queryFinanceTask - 2024.04.19 at 17h 53m 36s.xml">
+      <configuration name="ActivitiParallelGatewayDemo.queryFinanceTask" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivitiParallelGatewayDemo_queryParallelTasks - 2024.04.19 at 17h 45m 53s.xml">
+      <configuration name="ActivitiParallelGatewayDemo.queryParallelTasks" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivitiParallelGatewayDemo_queryParallelTasks - 2024.04.19 at 17h 49m 10s.xml">
+      <configuration name="ActivitiParallelGatewayDemo.queryParallelTasks" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivitiParallelGatewayDemo_setVariablesForStartProcess - 2024.04.19 at 17h 34m 44s.xml">
+      <configuration name="ActivitiParallelGatewayDemo.setVariablesForStartProcess" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ActivitiParallelGatewayDemo_setVariablesForStartProcess - 2024.04.19 at 17h 43m 59s.xml">
+      <configuration name="ActivitiParallelGatewayDemo.setVariablesForStartProcess" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="544676000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4790487" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20118026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12660944" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1993205" sideWeight="0.49785408" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.62174404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41789356" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.222103" sideWeight="0.49295774" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25804722" sideWeight="0.5070422" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12929185" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMN Editor" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26019314" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3857296" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37372592" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4790487" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2945279" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.080472104" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5288788" sideWeight="0.49785408" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34088334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41789356" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23551503" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/ZoneAwareLoadBalancer.class</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/DynamicServerListLoadBalancer.class</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.2.9.RELEASE/spring-cloud-openfeign-core-2.2.9.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClientFactoryBean.class</url>
+          <line>323</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.2.9.RELEASE/spring-cloud-openfeign-core-2.2.9.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClientFactoryBean.class</url>
+          <line>285</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.2.9.RELEASE/spring-cloud-openfeign-core-2.2.9.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClientFactoryBean.class</url>
+          <line>270</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/io/github/openfeign/feign-core/10.12/feign-core-10.12.jar!/feign/SynchronousMethodHandler.class</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.2.9.RELEASE/spring-cloud-openfeign-core-2.2.9.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/LoadBalancerFeignClient.class</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/io/github/openfeign/feign-core/10.12/feign-core-10.12.jar!/feign/Client.class</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/io/github/openfeign/feign-core/10.12/feign-core-10.12.jar!/feign/Client.class</url>
+          <line>142</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.2.9.RELEASE/spring-cloud-openfeign-core-2.2.9.RELEASE.jar!/org/springframework/cloud/openfeign/ribbon/FeignLoadBalancer.class</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/com/cloud/study/common/FeignFilter.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/com/cloud/study/common/FeignFilter.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/com/cloud/study/common/FeignInterceptor.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/2.1.0/nacos-client-2.1.0.jar!/com/alibaba/nacos/common/http/client/NacosRestTemplate.class</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/2.1.0/nacos-client-2.1.0-sources.jar!/com/alibaba/nacos/common/remote/client/RpcClient.java</url>
+          <line>640</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/2.1.0/nacos-client-2.1.0-sources.jar!/com/alibaba/nacos/common/http/client/request/JdkHttpClientRequest.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/2.1.0/nacos-client-2.1.0-sources.jar!/com/alibaba/nacos/common/http/client/request/DefaultHttpClientRequest.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.class</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/io/github/openfeign/feign-httpclient/10.12/feign-httpclient-10.12.jar!/feign/httpclient/ApacheHttpClient.class</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.2.9.RELEASE/spring-cloud-openfeign-core-2.2.9.RELEASE-sources.jar!/org/springframework/cloud/openfeign/ribbon/FeignLoadBalancer.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/1.4.1/nacos-client-1.4.1.jar!/com/alibaba/nacos/client/naming/NacosNamingService.class</url>
+          <line>219</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/feign-provider/src/main/java/com/cloud/study/feignprovider/NacosConfigController.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-context/2.2.9.RELEASE/spring-cloud-context-2.2.9.RELEASE-sources.jar!/org/springframework/cloud/context/scope/GenericScope.java</url>
+          <line>402</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-context/2.2.9.RELEASE/spring-cloud-context-2.2.9.RELEASE-sources.jar!/org/springframework/cloud/context/scope/refresh/RefreshScope.java</url>
+          <line>153</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-context/2.2.9.RELEASE/spring-cloud-context-2.2.9.RELEASE-sources.jar!/org/springframework/cloud/context/refresh/ContextRefresher.java</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-context/2.2.9.RELEASE/spring-cloud-context-2.2.9.RELEASE-sources.jar!/org/springframework/cloud/context/refresh/ContextRefresher.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/gateway/src/main/java/com/cloud/study/gateway/filter/CheckAuthFilter.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/gateway/src/main/java/com/cloud/study/gateway/filter/CheckIPFilter.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/filter/WebsocketRoutingFilter.class</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/filter/NettyRoutingFilter.class</url>
+          <line>102</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/filter/NettyRoutingFilter.class</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-webflux/5.2.15.RELEASE/spring-webflux-5.2.15.RELEASE.jar!/org/springframework/web/reactive/DispatcherHandler.class</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-webflux/5.2.15.RELEASE/spring-webflux-5.2.15.RELEASE.jar!/org/springframework/web/reactive/DispatcherHandler.class</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-webflux/5.2.15.RELEASE/spring-webflux-5.2.15.RELEASE.jar!/org/springframework/web/reactive/result/view/ViewResolutionResultHandler.class</url>
+          <line>100</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/1.4.1/nacos-client-1.4.1-sources.jar!/com/alibaba/nacos/client/naming/NacosNamingService.java</url>
+          <line>298</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/1.4.1/nacos-client-1.4.1-sources.jar!/com/alibaba/nacos/client/naming/NacosNamingService.java</url>
+          <line>296</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/1.4.1/nacos-client-1.4.1-sources.jar!/com/alibaba/nacos/client/naming/NacosNamingService.java</url>
+          <line>301</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/1.4.1/nacos-client-1.4.1-sources.jar!/com/alibaba/nacos/client/naming/NacosNamingService.java</url>
+          <line>256</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/1.4.1/nacos-client-1.4.1-sources.jar!/com/alibaba/nacos/client/naming/NacosNamingService.java</url>
+          <line>261</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/1.4.1/nacos-client-1.4.1-sources.jar!/com/alibaba/nacos/client/naming/NacosNamingService.java</url>
+          <line>266</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/1.4.1/nacos-client-1.4.1-sources.jar!/com/alibaba/nacos/client/naming/NacosNamingService.java</url>
+          <line>272</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/1.4.1/nacos-client-1.4.1-sources.jar!/com/alibaba/nacos/client/naming/NacosNamingService.java</url>
+          <line>277</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/1.4.1/nacos-client-1.4.1-sources.jar!/com/alibaba/nacos/client/naming/NacosNamingService.java</url>
+          <line>283</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/alibaba/nacos/nacos-client/1.4.1/nacos-client-1.4.1-sources.jar!/com/alibaba/nacos/client/naming/NacosNamingService.java</url>
+          <line>289</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/route/RouteDefinitionRouteLocator.class</url>
+          <line>143</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/route/RouteDefinitionRouteLocator.class</url>
+          <line>196</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/route/RouteDefinitionRouteLocator.class</url>
+          <line>226</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/route/RouteDefinitionRouteLocator.class</url>
+          <line>149</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/handler/FilteringWebHandler.class</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/handler/FilteringWebHandler.class</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/filter/RouteToRequestUrlFilter.class</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/filter/RouteToRequestUrlFilter.class</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/filter/LoadBalancerClientFilter.class</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/filter/LoadBalancerClientFilter.class</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/filter/NettyRoutingFilter.class</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-gateway-server/2.2.9.RELEASE/spring-cloud-gateway-server-2.2.9.RELEASE.jar!/org/springframework/cloud/gateway/filter/NettyRoutingFilter.class</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-crypto/5.3.5.RELEASE/spring-security-crypto-5.3.5.RELEASE.jar!/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.class</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.9.RELEASE/spring-cloud-netflix-ribbon-2.2.9.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.java</url>
+          <line>171</line>
+          <properties />
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ZoneAwareLoadBalancer.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/ZoneAwareLoadBalancer.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/rabbon-comsumer/src/main/java/com/cloud/study/comsumer/TestController.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-web/5.2.15.RELEASE/spring-web-5.2.15.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java</url>
+          <line>736</line>
+          <properties />
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.9.RELEASE/spring-cloud-netflix-ribbon-2.2.9.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonHttpRequest.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-web/5.2.15.RELEASE/spring-web-5.2.15.RELEASE-sources.jar!/org/springframework/http/client/InterceptingClientHttpRequest.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/io/github/openfeign/feign-core/10.12/feign-core-10.12-sources.jar!/feign/SynchronousMethodHandler.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/io/github/openfeign/feign-core/10.12/feign-core-10.12-sources.jar!/feign/SynchronousMethodHandler.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>274</line>
+          <properties />
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/LoadBalancerContext.java</url>
+          <line>480</line>
+          <properties />
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>302</line>
+          <properties />
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-web/5.2.15.RELEASE/spring-web-5.2.15.RELEASE-sources.jar!/org/springframework/http/client/support/InterceptingHttpAccessor.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.9.RELEASE/spring-cloud-netflix-ribbon-2.2.9.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java</url>
+          <line>115</line>
+          <properties />
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.9.RELEASE/spring-cloud-netflix-ribbon-2.2.9.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonLoadBalancerClient.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-web/5.2.15.RELEASE/spring-web-5.2.15.RELEASE-sources.jar!/org/springframework/http/client/InterceptingClientHttpRequest.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-web/5.2.15.RELEASE/spring-web-5.2.15.RELEASE-sources.jar!/org/springframework/http/client/InterceptingClientHttpRequest.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-web/5.2.15.RELEASE/spring-web-5.2.15.RELEASE-sources.jar!/org/springframework/http/client/SimpleBufferingClientHttpRequest.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/AbstractServerPredicate.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.2.9.RELEASE/spring-cloud-openfeign-core-2.2.9.RELEASE-sources.jar!/org/springframework/cloud/openfeign/ribbon/DefaultFeignLoadBalancedConfiguration.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/feign-consumer/src/main/java/com/cloud/study/feignconsumer/ConsumerController.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/io/github/openfeign/feign-core/10.12/feign-core-10.12-sources.jar!/feign/SynchronousMethodHandler.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/io/github/openfeign/feign-core/10.12/feign-core-10.12-sources.jar!/feign/SynchronousMethodHandler.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/reactive/LoadBalancerCommand.java</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/LoadBalancerContext.java</url>
+          <line>475</line>
+          <properties />
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0-sources.jar!/com/netflix/loadbalancer/BaseLoadBalancer.java</url>
+          <line>754</line>
+          <properties />
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/client/AbstractLoadBalancerAwareClient.class</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/io/github/openfeign/feign-core/10.12/feign-core-10.12-sources.jar!/feign/SynchronousMethodHandler.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/io/github/openfeign/feign-core/10.12/feign-core-10.12-sources.jar!/feign/AsyncResponseHandler.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE.jar!/org/springframework/security/web/authentication/AuthenticationFailureHandler.class</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetailsService.class</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security/src/main/java/com/cloud/study/springsecurity/service/UserServiceInMemory.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/csrf/HttpSessionCsrfTokenRepository.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.java</url>
+          <line>133</line>
+          <properties />
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security/src/main/java/com/cloud/study/springsecurity/config/WebSecurityAccessConfig.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security/src/main/java/com/cloud/study/springsecurity/config/WebSecurityAccessConfig.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java</url>
+          <line>198</line>
+          <properties />
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java</url>
+          <line>209</line>
+          <properties />
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/CsrfConfigurer.java</url>
+          <line>206</line>
+          <properties />
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/AbstractInterceptUrlConfigurer.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java</url>
+          <line>293</line>
+          <properties />
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/AbstractConfiguredSecurityBuilder.java</url>
+          <line>332</line>
+          <properties />
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/AbstractConfiguredSecurityBuilder.java</url>
+          <line>323</line>
+          <properties />
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/AbstractConfiguredSecurityBuilder.java</url>
+          <line>328</line>
+          <properties />
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/ExceptionHandlingConfigurer.java</url>
+          <line>197</line>
+          <properties />
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/AnonymousConfigurer.java</url>
+          <line>152</line>
+          <properties />
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/access/intercept/FilterSecurityInterceptor.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="363" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/authentication/AnonymousAuthenticationFilter.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/access/intercept/FilterSecurityInterceptor.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="367" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/access/ExceptionTranslationFilter.java</url>
+          <line>168</line>
+          <properties />
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/authentication/LoginUrlAuthenticationEntryPoint.java</url>
+          <line>135</line>
+          <properties />
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/access/ExceptionTranslationFilter.java</url>
+          <line>208</line>
+          <properties />
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/authentication/ui/DefaultLoginPageGeneratingFilter.java</url>
+          <line>200</line>
+          <properties />
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/FormLoginConfigurer.java</url>
+          <line>276</line>
+          <properties />
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java</url>
+          <line>195</line>
+          <properties />
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java</url>
+          <line>164</line>
+          <properties />
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/authentication/logout/CompositeLogoutHandler.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/session/SessionManagementFilter.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/context/HttpSessionSecurityContextRepository.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/session/SessionManagementFilter.java</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/context/HttpSessionSecurityContextRepository.java</url>
+          <line>344</line>
+          <properties />
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-web/5.3.5.RELEASE/spring-security-web-5.3.5.RELEASE-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java</url>
+          <line>325</line>
+          <properties />
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-config/5.3.5.RELEASE/spring-security-config-5.3.5.RELEASE-sources.jar!/org/springframework/security/config/annotation/method/configuration/GlobalMethodSecuritySelector.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="403" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE-sources.jar!/org/springframework/security/access/intercept/aopalliance/MethodSecurityInterceptor.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE-sources.jar!/org/springframework/security/access/intercept/AbstractSecurityInterceptor.java</url>
+          <line>232</line>
+          <properties />
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-jwt-restful-login/src/main/java/com/cloud/study/springsecurityjwtrestfullogin/common/AuthConfigs.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-jwt-restful-login/src/main/java/com/cloud/study/springsecurityjwtrestfullogin/service/UserServiceInDB.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-jwt-restful-login/src/main/java/com/cloud/study/springsecurityjwtrestfullogin/security/ParseJwtAuthTokenFilter.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-jwt-restful-login/src/main/java/com/cloud/study/springsecurityjwtrestfullogin/security/JwtAuthenticationEntryPoint.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-jwt-restful-login/src/main/java/com/cloud/study/springsecurityjwtrestfullogin/security/AppAccessDeniedHandler.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-jwt-restful-login/src/main/java/com/cloud/study/springsecurityjwtrestfullogin/security/AccessSecurityExpressionOperations.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-jwt-restful-login/src/main/java/com/cloud/study/springsecurityjwtrestfullogin/service/UserServiceInDB.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="422" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-jwt-restful-login/src/main/java/com/cloud/study/springsecurityjwtrestfullogin/service/UserServiceInDB.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-jwt-restful-login/src/main/java/com/cloud/study/springsecurityjwtrestfullogin/service/UserServiceInDB.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/security/spring-security-core/5.3.5.RELEASE/spring-security-core-5.3.5.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java</url>
+          <line>225</line>
+          <properties />
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-security-jwt-restful-login/src/main/java/com/cloud/study/springsecurityjwtrestfullogin/security/AccessSecurityExpressionOperations.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rabbon-provider/src/main/java/com/cloud/study/provider/EchoController.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="427" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.46/tomcat-embed-core-9.0.46-sources.jar!/org/apache/catalina/connector/CoyoteOutputStream.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-web/5.1.14.RELEASE/spring-web-5.1.14.RELEASE.jar!/org/springframework/web/SpringServletContainerInitializer.class</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="441" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-web/5.1.14.RELEASE/spring-web-5.1.14.RELEASE.jar!/org/springframework/web/SpringServletContainerInitializer.class</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ActivitiBasicDemo/src/test/java/basic/ActivitiResourceDemo.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/activiti/activiti-engine/7.1.0.M6/activiti-engine-7.1.0.M6.jar!/org/activiti/engine/task/Task.class</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/org/mybatis/mybatis/3.5.5/mybatis-3.5.5.jar!/org/apache/ibatis/binding/MapperMethod.class</url>
+          <line>306</line>
+          <properties />
+          <option name="timeStamp" value="453" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/com/cloud/study/mybatis/SqlInjector.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="454" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/com/cloud/study/mybatis/CommonServiceImpl.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/src/main/java/com/cloud/study/mybatis/SqlInjector.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="456" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="beanName.equals(&quot;baseCommonSelectServiceImpl&quot;)" language="JAVA" />
+          <url>jar://E:/apache-maven-3.6.0/repository/org/springframework/spring-beans/5.1.14.RELEASE/spring-beans-5.1.14.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java</url>
+          <line>375</line>
+          <properties />
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/service/AccountServiceImpl.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/provider/SpecialProvider.class</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ActivitiBasicDemo/src/test/java/basic/ActivitiWorkerDemo.java</url>
+          <line>59</line>
+          <properties class="basic.ActivitiWorkerDemo" method="taskAddCommentForTask">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://E:/apache-maven-3.6.0/repository/com/baomidou/mybatis-plus-core/3.4.0/mybatis-plus-core-3.4.0-sources.jar!/com/baomidou/mybatisplus/core/injector/ISqlInjector.java</url>
+          <line>33</line>
+          <properties class="com.baomidou.mybatisplus.core.injector.ISqlInjector" method="inspectInject">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="477" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>beanName.equals(&quot;baseCommonSelectServiceImpl&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>beanName.equals(&quot;baseCommon&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this.setResultType(mappedStatement, mapperClass)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getGlobalConfig(configuration)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getGlobalConfig(configuration).getSqlInjector()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>GlobalConfigUtils.getSqlInjector(configuration)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getSuperMapperClass(configuration).isAssignableFrom(mapperClass)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getGlobalConfig(configuration).getSuperMapperClass()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getServletContextInitializerBeans()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getChildren()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((TomcatEmbeddedContext) context).getChildren()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>context.getPipeline()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/provider/base/BaseSelectProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/common/base/select/SelectOneMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/common/base/BaseSelectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-core/1.1.5/mapper-core-1.1.5.jar!/tk/mybatis/mapper/mapperhelper/MapperTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/entity/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/common/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="86" lean-forward="false" selection-start-line="14" selection-start-column="86" selection-end-line="14" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/common/base/BaseUpdateMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="60" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/common/base/update/UpdateByPrimaryKeyMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/provider/base/BaseUpdateProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="18" column="55" lean-forward="true" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/mapper/AccountMapper2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonSelectProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/SqlInjector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/com/baomidou/mybatis-plus-core/3.4.0/mybatis-plus-core-3.4.0-sources.jar!/com/baomidou/mybatisplus/core/injector/DefaultSqlInjector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/com/baomidou/mybatis-plus-core/3.4.0/mybatis-plus-core-3.4.0-sources.jar!/com/baomidou/mybatisplus/core/injector/AbstractSqlInjector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-891">
+          <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/service/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="59" selection-end-column="7" />
+          <folding>
+            <element signature="e#688#689#0" expanded="false" />
+            <element signature="e#742#743#0" expanded="false" />
+            <element signature="e#811#812#0" expanded="false" />
+            <element signature="e#865#866#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/temp/ICommonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-mybatis/src/main/java/com/cloud/study/springbootmybatis/common/BaseCommonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/com/baomidou/mybatis-plus-extension/3.4.0/mybatis-plus-extension-3.4.0.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/com/baomidou/mybatis-plus-extension/3.4.0/mybatis-plus-extension-3.4.0.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="88" column="11" lean-forward="false" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/common/special/InsertListMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/common/MySqlMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-core/1.1.5/mapper-core-1.1.5.jar!/tk/mybatis/mapper/entity/EntityTable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="144" column="32" lean-forward="false" selection-start-line="144" selection-start-column="32" selection-end-line="144" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-core/1.1.5/mapper-core-1.1.5.jar!/tk/mybatis/mapper/mapperhelper/EntityHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="77" column="48" lean-forward="false" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-core/1.1.5/mapper-core-1.1.5.jar!/tk/mybatis/mapper/mapperhelper/SqlHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="264" column="25" lean-forward="false" selection-start-line="264" selection-start-column="25" selection-end-line="264" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-core/1.1.5/mapper-core-1.1.5.jar!/tk/mybatis/mapper/entity/EntityColumn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="46" column="18" lean-forward="false" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/provider/SpecialProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="26" column="42" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <marker date="1714279169109" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1714279169109" expanded="false" signature="150:494" ph="..." />
+            <marker date="1714279169109" expanded="false" signature="625:636" ph=" { " />
+            <marker date="1714279169109" expanded="false" signature="669:675" ph=" }" />
+            <marker date="1714279169109" expanded="true" signature="726:1917" ph="{...}" />
+            <marker date="1714279169109" expanded="true" signature="1980:2457" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonInsertMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonUpdateMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="108" column="25" lean-forward="false" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonDeleteMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonInsertProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonSelectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="38" column="75" lean-forward="false" selection-start-line="38" selection-start-column="68" selection-end-line="38" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonUpdateProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/common/CommonDeleteProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/service/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="43" column="36" lean-forward="false" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/io/mybatis/mybatis-service/1.2.2/mybatis-service-1.2.2.jar!/io/mybatis/service/EntityService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/mapper/AccountMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/mapper/AccountBaseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/tk/mybatis/mapper-base/1.1.5/mapper-base-1.1.5.jar!/tk/mybatis/mapper/common/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <marker date="1714279169109" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/service/AccountEntityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-tk-mybatis/src/main/java/com/cloud/study/springboottkmybatis/service/AccountEntityServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/io/mybatis/mybatis-service/1.2.2/mybatis-service-1.2.2-sources.jar!/io/mybatis/service/AbstractService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3575">
+          <caret line="180" column="27" lean-forward="false" selection-start-line="180" selection-start-column="27" selection-end-line="180" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/io/mybatis/mybatis-mapper/1.2.2/mybatis-mapper-1.2.2.jar!/io/mybatis/mapper/BaseMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="37" column="28" lean-forward="false" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <marker date="1714382130066" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1714382130066" expanded="false" signature="141:698" ph="..." />
+            <marker date="1714382130066" expanded="false" signature="885:896" ph=" { " />
+            <marker date="1714382130066" expanded="false" signature="944:950" ph=" }" />
+            <marker date="1714382130066" expanded="true" signature="956:1098" ph="@{...}" />
+            <marker date="1714382130066" expanded="true" signature="1286:1446" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="1526:1686" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/io/mybatis/mybatis-mapper/1.2.2/mybatis-mapper-1.2.2.jar!/io/mybatis/mapper/example/ExampleMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="52" column="20" lean-forward="false" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding>
+            <marker date="1714382130066" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1714382130066" expanded="false" signature="149:517" ph="..." />
+            <marker date="1714382130066" expanded="false" signature="590:601" ph=" { " />
+            <marker date="1714382130066" expanded="false" signature="622:628" ph=" }" />
+            <marker date="1714382130066" expanded="true" signature="634:754" ph="@{...}" />
+            <marker date="1714382130066" expanded="true" signature="793:913" ph="@{...}" />
+            <marker date="1714382130066" expanded="true" signature="995:1124" ph="@{...}" />
+            <marker date="1714382130066" expanded="true" signature="1190:1319" ph="@{...}" />
+            <marker date="1714382130066" expanded="true" signature="1410:1530" ph="@{...}" />
+            <marker date="1714382130066" expanded="true" signature="1573:1693" ph="@{...}" />
+            <marker date="1714382130066" expanded="true" signature="1743:1862" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/io/mybatis/mybatis-service/1.2.2/mybatis-service-1.2.2-sources.jar!/io/mybatis/service/EntityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/apache-maven-3.6.0/repository/io/mybatis/mybatis-mapper/1.2.2/mybatis-mapper-1.2.2.jar!/io/mybatis/mapper/example/ExampleProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="80" column="40" lean-forward="false" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+          <folding>
+            <marker date="1714382130066" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1714382130066" expanded="false" signature="149:450" ph="..." />
+            <marker date="1714382130066" expanded="true" signature="6581:6588" ph="{}" />
+            <marker date="1714382130066" expanded="true" signature="6664:9614" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="6734:9606" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="6812:6865" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="9543:9594" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="9690:13038" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="9758:13030" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="9813:13020" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="9911:9980" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="10028:10260" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="10113:10207" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="12937:13004" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="13123:16623" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="13191:16615" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="13246:16605" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="13344:13413" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="16522:16589" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="16708:20186" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="16776:20178" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="16831:20168" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="16929:16998" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="17046:17399" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="17131:17345" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="17213:17321" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="20085:20152" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="20262:23954" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="20330:23946" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="20385:23936" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="20514:20575" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="20633:20692" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="20769:20835" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="21085:23515" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="23568:23644" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="23697:23786" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="23849:23908" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="24029:27337" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="24097:27329" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="24152:27319" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="24234:24295" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="24347:24406" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="24489:24561" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="24643:24694" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="24757:27187" ph="{...}" />
+            <marker date="1714382130066" expanded="true" signature="27244:27303" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring-security-jwt-restful-login:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3614089" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3614089" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3614089" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3614089" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-boot-mybatis</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3614089" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3614089" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

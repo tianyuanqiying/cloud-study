@@ -1,0 +1,25 @@
+server:
+  port: 8040
+
+spring:
+  application:
+    name: service-provider  #微服务名称
+
+  #配置nacos注册中心地址
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+        #namespace: 5ac81613-77c1-4839-99ce-2fd17f1de7f3
+        #cluster-name: BJ
+        #group: tulingshop
+        #ephemeral: false
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+

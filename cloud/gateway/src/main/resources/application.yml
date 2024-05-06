@@ -1,0 +1,23 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: gateway
+  #配置nacos注册中心地址
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+    gateway:
+      enabled: true
+      routes:
+      - id: feign-provider  #路由ID，全局唯一，建议配合服务名
+#        #uri: http://localhost:8020  #目标微服务的请求地址和端口
+        uri: lb://feign-provider  #lb 整合负载均衡器ribbon,loadbalancer
+        predicates:
+#        #Path路径匹配
+        - Path=/provider/**
+      - id: feign-consumer  #路由ID，全局唯一，建议配合服务名
+        uri: lb://feign-consumer  #lb 整合负载均衡器ribbon,loadbalancer
+        predicates:
+        - Path=/consumer/**

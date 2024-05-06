@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/spring-security-jwt-restful-login/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-tk-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-valid/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -5,6 +5,7 @@
     <file url="file://$PROJECT_DIR$/ActivitiBasicDemo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-valid" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dubbo-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/feign-consumer" charset="UTF-8" />

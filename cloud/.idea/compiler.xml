@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ActivitiBasicDemo" />
         <module name="common" />
+        <module name="common-valid" />
         <module name="comsumer" />
         <module name="dubbo-consumer" />
         <module name="dubbo-provider" />
@@ -23,6 +24,7 @@
         <module name="seata_multipart_source" />
         <module name="spring-boot-mybatis" />
         <module name="spring-boot-tk-mybatis" />
+        <module name="spring-boot-valid" />
         <module name="spring-cloud-oauth2" />
         <module name="spring-security" />
         <module name="spring-security-jwt-restful-login" />
@@ -34,6 +36,7 @@
       <module name="cloud" target="1.8" />
       <module name="common" target="8" />
       <module name="common-dubbo" target="8" />
+      <module name="common-valid" target="1.8" />
       <module name="comsumer" target="8" />
       <module name="demo" target="1.5" />
       <module name="dubbo-consumer" target="8" />
@@ -55,6 +58,7 @@
       <module name="seatafeign" target="1.8" />
       <module name="spring-boot-mybatis" target="1.7" />
       <module name="spring-boot-tk-mybatis" target="1.8" />
+      <module name="spring-boot-valid" target="1.5" />
       <module name="spring-cloud-oauth2" target="8" />
       <module name="spring-security" target="8" />
       <module name="spring-security-jwt-restful-login" target="8" />

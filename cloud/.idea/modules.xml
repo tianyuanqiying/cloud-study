@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ActivitiBasicDemo/ActivitiBasicDemo.iml" filepath="$PROJECT_DIR$/ActivitiBasicDemo/ActivitiBasicDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/common-dubbo/common-dubbo.iml" filepath="$PROJECT_DIR$/common-dubbo/common-dubbo.iml" />
@@ -19,7 +18,6 @@
       <module fileurl="file://$PROJECT_DIR$/seata_multipart_source/seata_multipart_source.iml" filepath="$PROJECT_DIR$/seata_multipart_source/seata_multipart_source.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-mybatis/spring-boot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-tk-mybatis/spring-boot-tk-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-tk-mybatis/spring-boot-tk-mybatis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-valid/spring-boot-valid.iml" filepath="$PROJECT_DIR$/spring-boot-valid/spring-boot-valid.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-oauth2/spring-cloud-oauth2.iml" filepath="$PROJECT_DIR$/spring-cloud-oauth2/spring-cloud-oauth2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security/spring-security.iml" filepath="$PROJECT_DIR$/spring-security/spring-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-jwt-restful-login/spring-security-jwt-restful-login.iml" filepath="$PROJECT_DIR$/spring-security-jwt-restful-login/spring-security-jwt-restful-login.iml" />

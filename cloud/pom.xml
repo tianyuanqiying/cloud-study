@@ -13,8 +13,8 @@
         <module>dubbo-consumer</module>
         <module>common-dubbo</module>
         <module>seata_feign</module>
-        <module>ActivitiBasicDemo</module>
         <module>common-valid</module>
+
     </modules>
 
     <parent>

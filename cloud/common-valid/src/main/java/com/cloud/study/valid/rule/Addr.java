@@ -1,5 +1,6 @@
 package com.cloud.study.valid.rule;
 
+
 import com.cloud.study.valid.base.RegexValidator;
 
 /**
@@ -15,5 +16,10 @@ public class Addr implements RegexValidator {
     @Override
     public String getMessage() {
         return "通讯地址最长256个字符";
+    }
+
+    @Override
+    public String getErrorCode() {
+        return null;
     }
 }
